@@ -1,5 +1,15 @@
 const response = [
     {
+        name: 'Weekend in Macau - RN',
+        image: 'macau-rn.jpg',
+        dateFrom: 'Feb 2th 2019',
+        dateTo: 'Feb 4th 2019',
+        guests: 5,
+        category: 'Party',
+        copy:
+            'Macau is a little city in Brazil litoral, a nice place to having fun and be drunk with friends.'
+    },
+    {
         name: 'Decadent Week in Cape Town',
         image: 'cape-town.jpg',
         dateFrom: 'Oct 13th 2019',
@@ -275,7 +285,7 @@ const response = [
         copy:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
-  {
+    {
         name: 'Tourism in Kaziranga National PARK',
         image: 'kaziranga.jpg',
         dateFrom: 'Oct 10th 2019',
@@ -303,7 +313,7 @@ const response = [
         guests: 2,
         category: 'weekend break',
         copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'   
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Week in Buenos Aires',
@@ -313,7 +323,7 @@ const response = [
         guests: 4,
         category: 'family',
         copy:
-            'Argentina\'s capital, Buenos Aires is the second largest urban area in South America, full of great tourist attractions, museums, restaurants.'   
+            'Argentina\'s capital, Buenos Aires is the second largest urban area in South America, full of great tourist attractions, museums, restaurants.'
     }
 ]
 
